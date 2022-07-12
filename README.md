@@ -7,8 +7,8 @@
 - Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [Sonam_Singhal](https://leetcode.com/Sonam_19/)
-- HackerRank: [Sonam_Singhal](https://www.hackerrank.com/singhalsonam789)
+- LeetCode: [SONAM_SINGHAL](https://leetcode.com/Sonam_19/)
+- HackerRank: [SONAM_SINGHAL](https://www.hackerrank.com/singhalsonam789)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
